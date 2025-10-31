@@ -10,3 +10,6 @@
 * mcp.mount_http() : to run the mcp with http
 * python3 fastapi-mcp_calculator.py: run the mcp server (obligatoire) on http://localhost:8002
 * npx @modelcontextprotocol/inspector http://localhost:8002/mcp : test the server et il faut mettre streamable 
+
+# installations ;
+ * pip install fastapi fastapi_mcp uvicorn
